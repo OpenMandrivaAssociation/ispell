@@ -78,7 +78,7 @@ install the dictionary files from the ispell-* package for your language.
 Summary:	English dictionary for ispell
 Group:		System/Internationalization
 # the binary format changed with ispell 3.2.06
-PreReq:	ispell >= 3.2.06-2mdk
+Requires:	ispell >= 3.2.06-2mdk
 Requires:	locales-en
 BuildPrereq:	words >= 2-16mdk
 Obsoletes:	iamerica ispell-english ibritish ispell-british ispell-dictionary
