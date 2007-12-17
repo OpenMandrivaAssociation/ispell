@@ -58,7 +58,6 @@ Patch23:	ispell-3.2.06-mkdir_p.patch.bz2
 
 License:	GPL
 BuildRequires:	byacc ncurses-devel
-BuildRoot:	%_tmppath/%name-%version-%release-buildroot
 # we don't distribute ispell dictionnaries anymore, as they are
 # replaced with aspell ones
 #Requires:	ispell-dictionary == 3.2.06
