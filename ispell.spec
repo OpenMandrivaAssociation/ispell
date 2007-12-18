@@ -80,7 +80,7 @@ Group:		System/Internationalization
 # the binary format changed with ispell 3.2.06
 Requires:	ispell >= 3.2.06-2mdk
 Requires:	locales-en
-BuildPrereq:	words >= 2-16mdk
+BuildRequires:	words >= 2-16mdk
 Obsoletes:	iamerica ispell-english ibritish ispell-british ispell-dictionary
 Provides:	iamerica ispell-english ibritish ispell-british
 Provides:	ispell-dictionary = 3.2.06
