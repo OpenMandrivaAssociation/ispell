@@ -18,7 +18,7 @@ Version:	3.2.06
 Release:	%mkrel 15
 Group:		Text tools
 
-URL:		http://ficus-www.cs.ucla.edu/ficus-members/geoff/ispell.html
+URL:		https://ficus-www.cs.ucla.edu/ficus-members/geoff/ispell.html
 
 Source0:	http://fmg-www.cs.ucla.edu/geoff/tars/ispell-%{version}.tar.bz2
 Source2:	spell.bz2
